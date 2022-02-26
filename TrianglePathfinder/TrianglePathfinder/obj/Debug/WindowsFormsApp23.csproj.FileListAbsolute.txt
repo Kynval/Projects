@@ -1,0 +1,20 @@
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.AssemblyReference.cache
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.cache
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+C:\Users\FX\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.AssemblyReference.cache
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.cache
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+D:\Files\Работа-Вуз 2020 2021\граф треугольник\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb
